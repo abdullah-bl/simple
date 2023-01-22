@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+[data-active="true"]{
+  color: blue;
+  font-weight: 500;
+}
